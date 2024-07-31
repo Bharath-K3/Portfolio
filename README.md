@@ -34,21 +34,57 @@
 - Concurrently pursuing an MS in artificial intelligence with a perfect 4.0 GPA.
 - Earned a B.E. in electronics and communication engineering from Ambedkar Institute of Technology, affiliated to VTU, with an impressive 8.8 CGPA in 2020.
 
-## Work Experience
-- **AI Research Assistant and Instructional Assistant** at University of North Texas, UNT (2023-Present): Currently working on generative AI, adversarial attacks, and biometric analysis in the Visual Computing and Biometric Security Lab (VCBSL). Also served as an instructional assistant during Fall 2023.
-- **AI Research Assistant** at International Institute of Information Technology, IIITB (2021-2022): Developed a multi-tasking deep learning architecture for segmenting Optic Disc, Blood Vessels, Macula, and exudates simultaneously.
-- **AI Research Intern** at Indian Institute of Science (IISc) (2021): Worked on "Human dataset creation and rendering".
+## Trailblazing the AI Frontier: My Professional Odyssey 🚀
+
+### University of North Texas (UNT) | 2023 - Present
+*PhD Candidate in Computer Science & AI Research Vanguard*
+
+Embarking on a quest to push the boundaries of AI, I've transitioned from a Master's student in Artificial Intelligence to a determined PhD candidate in Computer Science. My mission? To unravel the mysteries of Deepfake image analysis and fortify digital security through ocular biometrics.
+
+🔬 **Research Highlights:**
+- Spearheading cutting-edge research in generative AI, digital vulnerabilities, and robust defense mechanisms
+- Pioneering work on morphing detection and adversarial attack mitigation
+- Contributing to groundbreaking projects at the Visual Computing and Biometric Security Lab (VCBSL)
+
+👨‍🏫 **Academic Leadership:**
+- Fall 2023: Instructional Assistant for Computer Science and Foundations of Data Structures
+- Spring/Summer 2024: Research Assistant at VCBSL, diving deep into AI security frontiers
+- Fall 2024: Ascending to the role of Teaching Assistant, nurturing the next generation of AI enthusiasts
+
+### International Institute of Information Technology, Bangalore (IIIT-B) | 2021 - 2022
+*AI Research Wizard*
+
+Engineered a revolutionary multi-tasking deep learning architecture, pushing the boundaries of medical image analysis:
+
+🧠 **Breakthrough Achievements:**
+- Crafted a neural network achieving an astounding 98% accuracy in blood vessel and optic disc segmentation
+- Boosted exudate segmentation dice scores by a whopping 15% compared to individual segmentation methods
+- Turbocharged prediction speed, outpacing other deep learning methods by 12x
+
+📚 **Publication Triumph:**
+- Authored a groundbreaking research paper: "Simultaneous Segmentation of Multiple Structures in Fundal Images using Multi-tasking Deep Neural Networks," published in Frontiers
+
+### Indian Institute of Science (IISc) | Jan 2021 - Apr 2021
+*3D Rendering Virtuoso & Human Pose Maestro*
+
+As a research intern at the prestigious Video Analytics Lab, I delved into the intricate world of human dataset creation and rendering:
+
+🎭 **Technical Wizardry:**
+- Mastered the art of rendering textured 3D meshes using Blender and its Python API
+- Harnessed the power of Skinned Multi-Person Linear (SMPL) models to breathe life into 3D human body representations
+- Wielded TensorFlow and NumPy to conquer challenges in human pose estimation and recovery
 
 ## AI Odyssey: My Digital Footprint 🚀
 
 ### [Medium](https://bharath-k1297.medium.com/)
 <details>
-<summary>*Featured Articles*</summary>
+<summary>**Featured Articles**</summary>
 
-1. [Next Word Prediction with NLP and Deep Learning](https://medium.com/p/48b9fe0a17bf)
-2. [Best PC Builds For Deep Learning In Every Budget Ranges](https://medium.com/p/3e83d1351a8)
-3. Human Emotion and Gesture Detector Using Deep Learning: [Part-1](https://medium.com/p/d0023008d0eb) and [Part-2](https://medium.com/p/471724f7a023)
+- [Next Word Prediction with NLP and Deep Learning](https://medium.com/p/48b9fe0a17bf)
+- [Best PC Builds For Deep Learning In Every Budget Ranges](https://medium.com/p/3e83d1351a8)
+- Human Emotion and Gesture Detector Using Deep Learning: [Part-1](https://medium.com/p/d0023008d0eb) and [Part-2](https://medium.com/p/471724f7a023)
 </details>
+
 
 ### [Paperspace](https://blog.paperspace.com/author/bharath/)
   <details>
@@ -61,12 +97,14 @@
   5. [Projects With Reinforcement Learning](https://blog.paperspace.com/projects-with-reinforcement-learning/)
   </details>
 
+
 ### [Google Scholar](https://scholar.google.com/citations?user=Dufrp4gAAAAJ&hl=en)
   <details>
   <summary>Featured Publication</summary>
   
   1. [Simultaneous segmentation of multiple structures in fundal images using multi-tasking deep neural networks](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Dufrp4gAAAAJ&citation_for_view=Dufrp4gAAAAJ:u5HHmVD_uO8C)
   </details>
+
 
 ### [GitHub](https://github.com/Bharath-K3)
   <details>
@@ -78,5 +116,6 @@
   4. [Innovative-Chatbot-using-1-Dimensional-Convolutional-Layers](https://github.com/Bharath-K3/Innovative-Chatbot-using-1-Dimensional-Convolutional-Layers)
   5. [AI-Voice-Assistant](https://github.com/Bharath-K3/AI-Voice-Assistant)
   </details>
+
 
 ### Check me out on [LinkedIn](www.linkedin.com/in/bharath-k33)!
