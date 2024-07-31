@@ -74,10 +74,25 @@ As a research intern at the prestigious Video Analytics Lab, I delved into the i
 - Harnessed the power of Skinned Multi-Person Linear (SMPL) models to breathe life into 3D human body representations
 - Wielded TensorFlow and NumPy to conquer challenges in human pose estimation and recovery
 
+<style>
+  .section-header {
+    margin-bottom: 5px;
+  }
+  .featured-title {
+    margin-bottom: 5px;
+  }
+  details {
+    margin-bottom: 20px;
+  }
+  summary {
+    margin-bottom: 10px;
+  }
+</style>
+
 <h2>AI Odyssey: My Digital Footprint 🚀</h2>
 
-<h3><a href="https://bharath-k1297.medium.com/">Medium</a></h3>
-<p><strong>Featured Articles</strong></p>
+<h3 class="section-header"><a href="https://bharath-k1297.medium.com/">Medium</a></h3>
+<p class="featured-title"><strong>Featured Articles</strong></p>
 <details>
 <summary>Click to expand</summary>
 <ul>
@@ -87,8 +102,8 @@ As a research intern at the prestigious Video Analytics Lab, I delved into the i
 </ul>
 </details>
 
-<h3><a href="https://blog.paperspace.com/author/bharath/">Paperspace</a></h3>
-<p><strong>Featured Articles</strong></p>
+<h3 class="section-header"><a href="https://blog.paperspace.com/author/bharath/">Paperspace</a></h3>
+<p class="featured-title"><strong>Featured Articles</strong></p>
 <details>
 <summary>Click to expand</summary>
 <ol>
@@ -100,8 +115,8 @@ As a research intern at the prestigious Video Analytics Lab, I delved into the i
 </ol>
 </details>
 
-<h3><a href="https://scholar.google.com/citations?user=Dufrp4gAAAAJ&hl=en">Google Scholar</a></h3>
-<p><strong>Featured Publication</strong></p>
+<h3 class="section-header"><a href="https://scholar.google.com/citations?user=Dufrp4gAAAAJ&hl=en">Google Scholar</a></h3>
+<p class="featured-title"><strong>Featured Publication</strong></p>
 <details>
 <summary>Click to expand</summary>
 <ol>
@@ -109,8 +124,8 @@ As a research intern at the prestigious Video Analytics Lab, I delved into the i
 </ol>
 </details>
 
-<h3><a href="https://github.com/Bharath-K3">GitHub</a></h3>
-<p><strong>Featured Repositories</strong></p>
+<h3 class="section-header"><a href="https://github.com/Bharath-K3">GitHub</a></h3>
+<p class="featured-title"><strong>Featured Repositories</strong></p>
 <details>
 <summary>Click to expand</summary>
 <ol>
