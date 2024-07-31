@@ -41,7 +41,7 @@
 
 ## AI Odyssey: My Digital Footprint 🚀
 
-- [Medium](https://bharath-k1297.medium.com/)
+ ### [Medium](https://bharath-k1297.medium.com/)
   <details>
   <summary>Featured Articles</summary>
   
@@ -50,7 +50,7 @@
   3. Human Emotion and Gesture Detector Using Deep Learning: [Part-1](https://medium.com/p/d0023008d0eb) and [Part-2](https://medium.com/p/471724f7a023)
   </details>
 
-- [Paperspace](https://blog.paperspace.com/author/bharath/)
+ ### [Paperspace](https://blog.paperspace.com/author/bharath/)
   <details>
   <summary>Featured Articles</summary>
   
@@ -61,14 +61,14 @@
   5. [Projects With Reinforcement Learning](https://blog.paperspace.com/projects-with-reinforcement-learning/)
   </details>
 
-- [Google Scholar](https://scholar.google.com/citations?user=Dufrp4gAAAAJ&hl=en)
+ ### [Google Scholar](https://scholar.google.com/citations?user=Dufrp4gAAAAJ&hl=en)
   <details>
   <summary>Featured Publication</summary>
   
   1. [Simultaneous segmentation of multiple structures in fundal images using multi-tasking deep neural networks](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Dufrp4gAAAAJ&citation_for_view=Dufrp4gAAAAJ:u5HHmVD_uO8C)
   </details>
 
-- [GitHub](https://github.com/Bharath-K3)
+ ### [GitHub](https://github.com/Bharath-K3)
   <details>
   <summary>Featured Repositories</summary>
   
@@ -79,4 +79,4 @@
   5. [AI-Voice-Assistant](https://github.com/Bharath-K3/AI-Voice-Assistant)
   </details>
 
-  - [LinkedIn](www.linkedin.com/in/bharath-k33)
+### Check me out on [LinkedIn](www.linkedin.com/in/bharath-k33)!
