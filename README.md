@@ -77,45 +77,49 @@ As a research intern at the prestigious Video Analytics Lab, I delved into the i
 ## AI Odyssey: My Digital Footprint 🚀
 
 ### [Medium](https://bharath-k1297.medium.com/)
+
+**Featured Articles**
 <details>
-<summary>**Featured Articles**</summary>
+<summary>Click to expand</summary>
 
 - [Next Word Prediction with NLP and Deep Learning](https://medium.com/p/48b9fe0a17bf)
 - [Best PC Builds For Deep Learning In Every Budget Ranges](https://medium.com/p/3e83d1351a8)
 - Human Emotion and Gesture Detector Using Deep Learning: [Part-1](https://medium.com/p/d0023008d0eb) and [Part-2](https://medium.com/p/471724f7a023)
 </details>
 
-
 ### [Paperspace](https://blog.paperspace.com/author/bharath/)
-  <details>
-  <summary>Featured Articles</summary>
-  
-  1. [Machine Translation With Sequence To Sequence Models And Dot Attention Mechanism](https://blog.paperspace.com/nlp-machine-translation-with-keras/)
-  2. [Image Captioning With TensorFlow And Keras](https://blog.paperspace.com/image-captioning-with-tensorflow/)
-  3. [Face Generation with GANs](https://blog.paperspace.com/face-generation-with-dcgans/)
-  4. [SRGAN: Super Resolution Generative Adversarial Networks](https://blog.paperspace.com/super-resolution-generative-adversarial-networks/)
-  5. [Projects With Reinforcement Learning](https://blog.paperspace.com/projects-with-reinforcement-learning/)
-  </details>
 
+**Featured Articles**
+<details>
+<summary>Click to expand</summary>
+
+1. [Machine Translation With Sequence To Sequence Models And Dot Attention Mechanism](https://blog.paperspace.com/nlp-machine-translation-with-keras/)
+2. [Image Captioning With TensorFlow And Keras](https://blog.paperspace.com/image-captioning-with-tensorflow/)
+3. [Face Generation with GANs](https://blog.paperspace.com/face-generation-with-dcgans/)
+4. [SRGAN: Super Resolution Generative Adversarial Networks](https://blog.paperspace.com/super-resolution-generative-adversarial-networks/)
+5. [Projects With Reinforcement Learning](https://blog.paperspace.com/projects-with-reinforcement-learning/)
+</details>
 
 ### [Google Scholar](https://scholar.google.com/citations?user=Dufrp4gAAAAJ&hl=en)
-  <details>
-  <summary>Featured Publication</summary>
-  
-  1. [Simultaneous segmentation of multiple structures in fundal images using multi-tasking deep neural networks](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Dufrp4gAAAAJ&citation_for_view=Dufrp4gAAAAJ:u5HHmVD_uO8C)
-  </details>
 
+**Featured Publication**
+<details>
+<summary>Click to expand</summary>
+
+1. [Simultaneous segmentation of multiple structures in fundal images using multi-tasking deep neural networks](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Dufrp4gAAAAJ&citation_for_view=Dufrp4gAAAAJ:u5HHmVD_uO8C)
+</details>
 
 ### [GitHub](https://github.com/Bharath-K3)
-  <details>
-  <summary>Featured Repositories</summary>
-  
-  1. [Next-Word-Prediction-with-NLP-and-Deep-Learning](https://github.com/Bharath-K3/Next-Word-Prediction-with-NLP-and-Deep-Learning)
-  2. [Smart-Face-Lock-System](https://github.com/Bharath-K3/Smart-Face-Lock-System)
-  3. [Human-Emotion-and-Gesture-Detector](https://github.com/Bharath-K3/Human-Emotion-and-Gesture-Detector)
-  4. [Innovative-Chatbot-using-1-Dimensional-Convolutional-Layers](https://github.com/Bharath-K3/Innovative-Chatbot-using-1-Dimensional-Convolutional-Layers)
-  5. [AI-Voice-Assistant](https://github.com/Bharath-K3/AI-Voice-Assistant)
-  </details>
 
+**Featured Repositories**
+<details>
+<summary>Click to expand</summary>
 
-### Check me out on [LinkedIn](www.linkedin.com/in/bharath-k33)!
+1. [Next-Word-Prediction-with-NLP-and-Deep-Learning](https://github.com/Bharath-K3/Next-Word-Prediction-with-NLP-and-Deep-Learning)
+2. [Smart-Face-Lock-System](https://github.com/Bharath-K3/Smart-Face-Lock-System)
+3. [Human-Emotion-and-Gesture-Detector](https://github.com/Bharath-K3/Human-Emotion-and-Gesture-Detector)
+4. [Innovative-Chatbot-using-1-Dimensional-Convolutional-Layers](https://github.com/Bharath-K3/Innovative-Chatbot-using-1-Dimensional-Convolutional-Layers)
+5. [AI-Voice-Assistant](https://github.com/Bharath-K3/AI-Voice-Assistant)
+</details>
+
+### Check me out on [LinkedIn](https://www.linkedin.com/in/bharath-k33)!
