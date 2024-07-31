@@ -41,16 +41,16 @@
 
 ## AI Odyssey: My Digital Footprint 🚀
 
- ### [Medium](https://bharath-k1297.medium.com/)
-  <details>
-  <summary>Featured Articles</summary>
-  
-  1. [Next Word Prediction with NLP and Deep Learning](https://medium.com/p/48b9fe0a17bf)
-  2. [Best PC Builds For Deep Learning In Every Budget Ranges](https://medium.com/p/3e83d1351a8)
-  3. Human Emotion and Gesture Detector Using Deep Learning: [Part-1](https://medium.com/p/d0023008d0eb) and [Part-2](https://medium.com/p/471724f7a023)
-  </details>
+### [Medium](https://bharath-k1297.medium.com/)
+<details>
+<summary>*Featured Articles*</summary>
 
- ### [Paperspace](https://blog.paperspace.com/author/bharath/)
+1. [Next Word Prediction with NLP and Deep Learning](https://medium.com/p/48b9fe0a17bf)
+2. [Best PC Builds For Deep Learning In Every Budget Ranges](https://medium.com/p/3e83d1351a8)
+3. Human Emotion and Gesture Detector Using Deep Learning: [Part-1](https://medium.com/p/d0023008d0eb) and [Part-2](https://medium.com/p/471724f7a023)
+</details>
+
+### [Paperspace](https://blog.paperspace.com/author/bharath/)
   <details>
   <summary>Featured Articles</summary>
   
@@ -61,14 +61,14 @@
   5. [Projects With Reinforcement Learning](https://blog.paperspace.com/projects-with-reinforcement-learning/)
   </details>
 
- ### [Google Scholar](https://scholar.google.com/citations?user=Dufrp4gAAAAJ&hl=en)
+### [Google Scholar](https://scholar.google.com/citations?user=Dufrp4gAAAAJ&hl=en)
   <details>
   <summary>Featured Publication</summary>
   
   1. [Simultaneous segmentation of multiple structures in fundal images using multi-tasking deep neural networks](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Dufrp4gAAAAJ&citation_for_view=Dufrp4gAAAAJ:u5HHmVD_uO8C)
   </details>
 
- ### [GitHub](https://github.com/Bharath-K3)
+### [GitHub](https://github.com/Bharath-K3)
   <details>
   <summary>Featured Repositories</summary>
   
