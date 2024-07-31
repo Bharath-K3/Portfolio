@@ -8,17 +8,32 @@
 
 🚀 Open to opportunities where I can make significant contributions, I am excited to continue learning and growing in this dynamic field. After all, in the world of AI, the sky is not the limit, it's just the beginning! 🌟
 
-## Skills
-- **Python**: The language of AI, my go-to tool for coding.
-- **Machine Learning**: Unleashing the power of data to predict the future.
-- **Deep Learning**: Diving deep into the ocean of neural networks.
-- **Natural Language Processing**: Bridging the gap between machines and human language.
-- **Computer Vision**: Giving eyes to machines to see and understand the world.
-- **Artificial Intelligence**: Building intelligent systems that learn and evolve.
-- **Internet of Things – IoT**: Connecting the physical and digital worlds.
-- **Robotics**: Creating machines that can move and interact. Expertize with Arduino and Raspberry Pi. 
+## 🧠 Technical Prowess:
 
-## Achievements
+Harnessing the power of artificial intelligence to shape the future of technology:
+
+### 🔮 AI & Deep Learning Wizardry
+- **Generative AI**: Conjuring new realities from data
+- **Deep Learning**: Crafting neural networks that mimic human cognition
+- **Machine Learning**: Training algorithms to predict the unpredictable
+- **Computer Vision**: Giving machines the gift of sight
+- **Natural Language Processing**: Bridging the gap between human and machine communication
+
+### 🐍 Python Mastery
+Wielding Python as my wand of choice, I craft elegant solutions to complex problems
+
+### 🧰 AI Toolkit Virtuoso
+- **TensorFlow & PyTorch**: Juggling multiple deep learning frameworks with finesse
+- **Data Science**: Extracting invaluable insights from vast data oceans
+
+### 🚀 Cutting-Edge Expertise
+- Pushing the boundaries of AI research and application
+- Staying at the forefront of emerging AI technologies and methodologies
+
+### 💡 Innovation Mindset
+Constantly exploring new frontiers in AI, turning visionary ideas into tangible solutions
+
+## Accolades and Achievements:
 
 - 📖 Published a [groundbreaking journal](https://www.frontiersin.org/articles/10.3389/frsip.2022.936875/full) on "Simultaneous Segmentation of Multiple Structures in Fundal Images using Multitasking Deep Neural Networks" at Frontiers.
 - 🖋️ Authored a combined 150+ articles about AI on [Medium](https://bharath-k1297.medium.com/) and [Paperspace](https://blog.paperspace.com/author/bharath/).
@@ -29,17 +44,34 @@
 - 💡 Obtained an [IBM AI Engineering Professional Certification](https://www.coursera.org/account/accomplishments/specialization/certificate/5STC5ZA53PJ3) and an [IBM Complete Artificial Intelligence Professional Certification](https://www.coursera.org/account/accomplishments/specialization/certificate/5STC5ZA53PJ3), showcasing further mastery of AI.
 - 💻 Received a [Google IT Professional Certificate](https://coursera.org/share/79b338cededdc0b13a61cf87dfe33cf7).
 
-## Education
-- Pursuing a PhD in Computer Science at the University of North Texas, with a research focus on ocular deepfakes, generative AI, digital vulnerabilities, and defenses.
-- Concurrently pursuing an MS in artificial intelligence with a perfect 4.0 GPA.
-- Earned a B.E. in electronics and communication engineering from Ambedkar Institute of Technology, affiliated to VTU, with an impressive 8.8 CGPA in 2020.
+## 🎓 Academic Odyssey: Forging the Future of AI
+
+### 🔬 Doctoral Pursuit | University of North Texas
+**PhD in Computer Science** (In Progress)
+- Pioneering research at the intersection of AI and digital security
+- Focus areas:
+  - Ocular deepfake detection and prevention
+  - Cutting-edge generative AI applications
+  - Identifying and mitigating digital vulnerabilities
+  - Developing robust AI-driven defense mechanisms
+
+### 🧠 Master's Journey | University of North Texas
+**MS in Artificial Intelligence** (In Progress)
+- Maintaining a stellar 4.0 GPA
+- Deepening expertise in advanced AI concepts and applications
+
+### 🏆 Undergraduate Excellence | Ambedkar Institute of Technology
+**B.E. in Electronics and Communication Engineering** (2020)
+- Graduated with distinction
+- Affiliated to Visvesvaraya Technological University (VTU)
+- Laid the foundation for a career at the forefront of technological innovation
 
 ## Trailblazing the AI Frontier: My Professional Odyssey 🚀
 
 ### University of North Texas (UNT) | 2023 - Present
 *PhD Candidate in Computer Science & AI Research Vanguard*
 
-Embarking on a quest to push the boundaries of AI, I've transitioned from a Master's student in Artificial Intelligence to a determined PhD candidate in Computer Science. My mission? To unravel the mysteries of Deepfake image analysis and fortify digital security through ocular biometrics.
+Embarking on a quest to push the boundaries of AI, I have transitioned from a Master's student in Artificial Intelligence to a determined PhD candidate in Computer Science. My mission? To unravel the mysteries of Deepfake image analysis and fortify digital security through ocular biometrics.
 
 🔬 **Research Highlights:**
 - Spearheading cutting-edge research in generative AI, digital vulnerabilities, and robust defense mechanisms
