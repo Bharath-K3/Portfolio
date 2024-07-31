@@ -74,52 +74,52 @@ As a research intern at the prestigious Video Analytics Lab, I delved into the i
 - Harnessed the power of Skinned Multi-Person Linear (SMPL) models to breathe life into 3D human body representations
 - Wielded TensorFlow and NumPy to conquer challenges in human pose estimation and recovery
 
-## AI Odyssey: My Digital Footprint 🚀
+<h2>AI Odyssey: My Digital Footprint 🚀</h2>
 
-### [Medium](https://bharath-k1297.medium.com/)
-
-**Featured Articles**
+<h3><a href="https://bharath-k1297.medium.com/">Medium</a></h3>
+<p><strong>Featured Articles</strong></p>
 <details>
 <summary>Click to expand</summary>
-
-- [Next Word Prediction with NLP and Deep Learning](https://medium.com/p/48b9fe0a17bf)
-- [Best PC Builds For Deep Learning In Every Budget Ranges](https://medium.com/p/3e83d1351a8)
-- Human Emotion and Gesture Detector Using Deep Learning: [Part-1](https://medium.com/p/d0023008d0eb) and [Part-2](https://medium.com/p/471724f7a023)
+<ul>
+<li><a href="https://medium.com/p/48b9fe0a17bf">Next Word Prediction with NLP and Deep Learning</a></li>
+<li><a href="https://medium.com/p/3e83d1351a8">Best PC Builds For Deep Learning In Every Budget Ranges</a></li>
+<li>Human Emotion and Gesture Detector Using Deep Learning: <a href="https://medium.com/p/d0023008d0eb">Part-1</a> and <a href="https://medium.com/p/471724f7a023">Part-2</a></li>
+</ul>
 </details>
 
-### [Paperspace](https://blog.paperspace.com/author/bharath/)
-
-**Featured Articles**
+<h3><a href="https://blog.paperspace.com/author/bharath/">Paperspace</a></h3>
+<p><strong>Featured Articles</strong></p>
 <details>
 <summary>Click to expand</summary>
-
-1. [Machine Translation With Sequence To Sequence Models And Dot Attention Mechanism](https://blog.paperspace.com/nlp-machine-translation-with-keras/)
-2. [Image Captioning With TensorFlow And Keras](https://blog.paperspace.com/image-captioning-with-tensorflow/)
-3. [Face Generation with GANs](https://blog.paperspace.com/face-generation-with-dcgans/)
-4. [SRGAN: Super Resolution Generative Adversarial Networks](https://blog.paperspace.com/super-resolution-generative-adversarial-networks/)
-5. [Projects With Reinforcement Learning](https://blog.paperspace.com/projects-with-reinforcement-learning/)
+<ol>
+<li><a href="https://blog.paperspace.com/nlp-machine-translation-with-keras/">Machine Translation With Sequence To Sequence Models And Dot Attention Mechanism</a></li>
+<li><a href="https://blog.paperspace.com/image-captioning-with-tensorflow/">Image Captioning With TensorFlow And Keras</a></li>
+<li><a href="https://blog.paperspace.com/face-generation-with-dcgans/">Face Generation with GANs</a></li>
+<li><a href="https://blog.paperspace.com/super-resolution-generative-adversarial-networks/">SRGAN: Super Resolution Generative Adversarial Networks</a></li>
+<li><a href="https://blog.paperspace.com/projects-with-reinforcement-learning/">Projects With Reinforcement Learning</a></li>
+</ol>
 </details>
 
-### [Google Scholar](https://scholar.google.com/citations?user=Dufrp4gAAAAJ&hl=en)
-
-**Featured Publication**
+<h3><a href="https://scholar.google.com/citations?user=Dufrp4gAAAAJ&hl=en">Google Scholar</a></h3>
+<p><strong>Featured Publication</strong></p>
 <details>
 <summary>Click to expand</summary>
-
-1. [Simultaneous segmentation of multiple structures in fundal images using multi-tasking deep neural networks](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Dufrp4gAAAAJ&citation_for_view=Dufrp4gAAAAJ:u5HHmVD_uO8C)
+<ol>
+<li><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Dufrp4gAAAAJ&citation_for_view=Dufrp4gAAAAJ:u5HHmVD_uO8C">Simultaneous segmentation of multiple structures in fundal images using multi-tasking deep neural networks</a></li>
+</ol>
 </details>
 
-### [GitHub](https://github.com/Bharath-K3)
-
-**Featured Repositories**
+<h3><a href="https://github.com/Bharath-K3">GitHub</a></h3>
+<p><strong>Featured Repositories</strong></p>
 <details>
 <summary>Click to expand</summary>
-
-1. [Next-Word-Prediction-with-NLP-and-Deep-Learning](https://github.com/Bharath-K3/Next-Word-Prediction-with-NLP-and-Deep-Learning)
-2. [Smart-Face-Lock-System](https://github.com/Bharath-K3/Smart-Face-Lock-System)
-3. [Human-Emotion-and-Gesture-Detector](https://github.com/Bharath-K3/Human-Emotion-and-Gesture-Detector)
-4. [Innovative-Chatbot-using-1-Dimensional-Convolutional-Layers](https://github.com/Bharath-K3/Innovative-Chatbot-using-1-Dimensional-Convolutional-Layers)
-5. [AI-Voice-Assistant](https://github.com/Bharath-K3/AI-Voice-Assistant)
+<ol>
+<li><a href="https://github.com/Bharath-K3/Next-Word-Prediction-with-NLP-and-Deep-Learning">Next-Word-Prediction-with-NLP-and-Deep-Learning</a></li>
+<li><a href="https://github.com/Bharath-K3/Smart-Face-Lock-System">Smart-Face-Lock-System</a></li>
+<li><a href="https://github.com/Bharath-K3/Human-Emotion-and-Gesture-Detector">Human-Emotion-and-Gesture-Detector</a></li>
+<li><a href="https://github.com/Bharath-K3/Innovative-Chatbot-using-1-Dimensional-Convolutional-Layers">Innovative-Chatbot-using-1-Dimensional-Convolutional-Layers</a></li>
+<li><a href="https://github.com/Bharath-K3/AI-Voice-Assistant">AI-Voice-Assistant</a></li>
+</ol>
 </details>
 
-### Check me out on [LinkedIn](https://www.linkedin.com/in/bharath-k33)!
+<h3>Check me out on <a href="https://www.linkedin.com/in/bharath-k33">LinkedIn</a>!</h3>
