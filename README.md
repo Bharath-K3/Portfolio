@@ -20,10 +20,15 @@
 - **Raspberry Pi**: A tiny and affordable computer that I use to learn programming.
 
 # Achievements
-- Published a journal on “Simultaneous Segmentation of Multiple Structures in Fundal Images using Multitasking Deep Neural Networks” at Frontiers.
-- Authored over 150 articles about AI on Medium and Paperspace.
-- Earned multiple certifications from renowned institutions like Applied AI Course, Michigan University, deeplearning.ai, Stanford University, IBM, and Google.
-- Published a research paper on "Multipurpose Defence Robot" in IRJET.
+
+- 📖 Published a groundbreaking journal on ["Simultaneous Segmentation of Multiple Structures in Fundal Images using Multitasking Deep Neural Networks"](https://www.frontiersin.org/articles/10.3389/frsip.2022.936875/full) at Frontiers.
+- 🖋️ Authored a combined 150+ articles about AI on [Medium](https://bharath-k1297.medium.com/) and [Paperspace](https://blog.paperspace.com/author/bharath/).
+- 🎓 Earned an [Applied AI Certification](https://www.appliedaicourse.com/certificate/b55d59d420) from Applied AI Course.
+- 🐍 Achieved a [Python Specialization Certification](https://coursera.org/share/668162a336055b8c2b6a59435bff7beb) from Michigan University.
+- 🧠 Secured a [TensorFlow Developer Professional Certificate](https://coursera.org/share/6e1360edeea651de16987904fcfd6d4c) from deeplearning.ai.
+- 🤖 Completed a [Machine Learning Certification](https://coursera.org/share/bdb40085d29546a59653515be5177b68) from Stanford University.
+- 💡 Obtained an [IBM AI Engineering Professional Certification](https://www.coursera.org/account/accomplishments/specialization/certificate/5STC5ZA53PJ3) and an [IBM Complete Artificial Intelligence Professional Certification](https://www.coursera.org/account/accomplishments/specialization/certificate/5STC5ZA53PJ3).
+- 💻 Received a [Google IT Professional Certificate](https://coursera.org/share/79b338cededdc0b13a61cf87dfe33cf7).
 
 # Education
 - Currently, a graduate student at the University of North Texas, pursuing a master's in artificial intelligence with a perfect 4.0 GPA.
