@@ -1,4 +1,4 @@
-# AI Researcher and Developer: Navigating the Frontiers of Artificial Intelligence
+# AI Researcher and Developer
 
 🔭 **Charting New Territories**: As an AI Researcher and PhD Candidate in Computer Science, I am exploring the fascinating universe of Deepfake image analysis and digital security with ocular images. My research is an exciting journey into generative AI, morphing techniques, adversarial attacks, defense mechanisms, and eye-tracking technologies.
 
