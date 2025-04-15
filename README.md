@@ -2,7 +2,7 @@
 
 🔭 **Charting New Territories**: As an AI Researcher and PhD Candidate in Computer Science, I am exploring the fascinating universe of Deepfake image analysis and digital security with ocular images. My research is an exciting journey into generative AI, morphing techniques, adversarial attacks, defense mechanisms, and eye-tracking technologies.
 
-🎓 **Expertise and Education**: With over five years of experience in AI, I've navigated the complex realms of machine learning, deep learning, computer vision, and natural language processing. I'm concurrently enhancing my knowledge through an MS in AI, maintaining academic excellence throughout my journey.
+🎓 **Expertise and Education**: With over five years of experience in AI, I've navigated the complex realms of machine learning, deep learning, computer vision, and natural language processing. This expertise is complemented by an MS in AI, completed with a perfect 4.0 GPA.
 
 📚 **Passion for Innovation**: My dedication to AI is like a guiding star, illuminating the path as I contribute to this rapidly evolving field. I thrive on engaging discussions and innovative collaborations that challenge the status quo in AI research, always ready to push the boundaries of what's possible.
 
@@ -50,14 +50,15 @@ Constantly exploring new frontiers in AI, turning visionary ideas into tangible 
 **PhD in Computer Science** (In Progress)
 - Pioneering research at the intersection of AI and digital security
 - Focus areas:
-  - Ocular deepfake detection and prevention
   - Cutting-edge generative AI applications
+  - Synthetic Data Generation with Diffusion and GANs
+  - Facial and Ocular Biometrics
   - Identifying and mitigating digital vulnerabilities
   - Developing robust AI-driven defense mechanisms
 
 ### 🧠 Master's Journey | University of North Texas
-**MS in Artificial Intelligence** (In Progress)
-- Maintaining a stellar 4.0 GPA
+**MS in Artificial Intelligence**
+- Achieved Academic Excellence with a stellar 4.0 GPA
 - Deepening expertise in advanced AI concepts and applications
 
 ### 🏆 Undergraduate Excellence | Ambedkar Institute of Technology
