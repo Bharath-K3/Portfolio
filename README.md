@@ -1,6 +1,6 @@
 # AI Researcher and Developer
 
-🔭 **Charting New Territories**: As an AI Researcher and PhD Candidate in Computer Science, I am exploring the fascinating universe of Deepfake image analysis and digital security with ocular images. My research is an exciting journey into generative AI, morphing techniques, adversarial attacks, defense mechanisms, and eye-tracking technologies.
+🔭 **Charting New Territories**: As an AI Researcher and PhD Student in Computer Science, I am exploring the fascinating universe of Deepfake image analysis and digital security with ocular images. My research is an exciting journey into generative AI, morphing techniques, adversarial attacks, defense mechanisms, and eye-tracking technologies.
 
 🎓 **Expertise and Education**: With over five years of experience in AI, I've navigated the complex realms of machine learning, deep learning, computer vision, and natural language processing. This expertise is complemented by an MS in AI, completed with a perfect 4.0 GPA.
 
@@ -70,9 +70,9 @@ Constantly exploring new frontiers in AI, turning visionary ideas into tangible 
 ## Trailblazing the AI Frontier: My Professional Odyssey 🚀
 
 ### University of North Texas (UNT) | 2023 - Present
-*PhD Candidate in Computer Science & AI Research Vanguard*
+*PhD Student in Computer Science & AI Research Vanguard*
 
-Embarking on a quest to push the boundaries of AI, I have transitioned from a Master's student in Artificial Intelligence to a determined PhD candidate in Computer Science. My mission? To unravel the mysteries of Deepfake image analysis and fortify digital security through ocular biometrics.
+Embarking on a quest to push the boundaries of AI, I have transitioned from a Master's student in Artificial Intelligence to a determined PhD Student in Computer Science. My mission? To unravel the mysteries of Deepfake image analysis and fortify digital security through ocular biometrics.
 
 🔬 **Research Highlights:**
 - Spearheading cutting-edge research in generative AI, digital vulnerabilities, and robust defense mechanisms
