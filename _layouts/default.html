@@ -25,13 +25,46 @@
         color: #0f172a;
       }
 
+      /* CSS Grid Layout Overrides */
+      .wrapper {
+        max-width: 1020px !important;
+        margin: 0 auto !important;
+        padding: 40px 20px !important;
+        display: grid !important;
+        grid-template-columns: 280px 1fr !important;
+        gap: 45px !important;
+        align-items: start !important;
+      }
+      header {
+        width: auto !important;
+        float: none !important;
+        position: sticky !important;
+        top: 40px !important;
+        display: flex !important;
+        flex-direction: column !important;
+        gap: 20px !important;
+      }
+      section {
+        width: auto !important;
+        float: none !important;
+        grid-column: 2 !important;
+        padding-bottom: 50px !important;
+      }
+      footer {
+        width: auto !important;
+        float: none !important;
+        position: static !important;
+        grid-column: 1 !important;
+        margin-top: 20px !important;
+      }
+
       /* Sidebar custom items */
       .sidebar-avatar {
         display: block;
         width: 200px !important;
         height: 200px !important;
         border-radius: 50% !important;
-        margin-bottom: 20px !important;
+        margin: 0 0 10px 0 !important;
         object-fit: cover !important;
         border: 3px solid #ffffff;
         box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
@@ -48,11 +81,11 @@
         font-size: 15px;
         color: #475569;
         line-height: 1.45;
-        margin-bottom: 20px;
+        margin-bottom: 0px;
       }
 
       .sidebar-meta {
-        margin: 20px 0;
+        margin: 10px 0;
         font-size: 0.88em;
         color: #475569;
         display: flex;
@@ -68,7 +101,7 @@
         font-size: 1.1em;
       }
       .sidebar-section {
-        margin: 24px 0;
+        margin: 10px 0;
       }
       .sidebar-section h3 {
         font-size: 0.85em !important;
@@ -96,7 +129,7 @@
         display: flex;
         flex-direction: column;
         gap: 8px;
-        margin-top: 24px;
+        margin-top: 10px;
       }
       .sidebar-social-link {
         display: flex;
@@ -127,29 +160,48 @@
         transform: scale(1.1);
       }
 
-      @media screen and (max-width: 640px) {
+      /* Unified Breakpoint for all Layout and custom elements */
+      @media screen and (max-width: 850px) {
+        .wrapper {
+          grid-template-columns: 1fr !important;
+          gap: 30px !important;
+          padding: 20px !important;
+        }
+        header {
+          position: static !important;
+          text-align: center !important;
+          align-items: center !important;
+        }
+        section {
+          grid-column: 1 !important;
+        }
+        footer {
+          grid-column: 1 !important;
+          text-align: center !important;
+          margin-top: 10px !important;
+        }
         .sidebar-avatar {
           margin: 0 auto 20px !important;
           width: 150px !important;
           height: 150px !important;
         }
-        header {
-          text-align: center;
-        }
         .sidebar-meta {
-          align-items: center;
+          align-items: center !important;
         }
         .sidebar-tags {
-          justify-content: center;
+          justify-content: center !important;
         }
         .sidebar-socials {
-          flex-direction: row;
-          flex-wrap: wrap;
-          justify-content: center;
-          gap: 10px;
+          flex-direction: row !important;
+          flex-wrap: wrap !important;
+          justify-content: center !important;
+          gap: 10px !important;
+        }
+        .sidebar-social-link {
+          width: auto !important;
         }
         .sidebar-social-link:hover {
-          transform: translateY(-2px);
+          transform: translateY(-2px) !important;
         }
       }
     </style>
