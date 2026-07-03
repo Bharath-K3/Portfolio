@@ -320,9 +320,17 @@ I am a PhD Student in Computer Science at the University of North Texas, working
     </div>
   </div>
 
+  <!-- NSF I-Corps -->
+  <div class="timeline-item">
+    <div class="timeline-date">December 2025</div>
+    <div class="timeline-content">
+      Our NEXBIS team received the <strong>NSF I-Corps Award</strong> for <em>"The Present and Accounted For"</em>, in support of our solution addressing contactless and privacy-preserving biometrics. The groundbreaking work was led by Entrepreneurial Lead <strong>Bharath Krishnamurthy</strong>, Technical Lead Dr. Ajita Rattani, and Industrial Mentor Terry Chapas.
+    </div>
+  </div>
+
   <!-- 4. DOOMGAN -->
   <div class="timeline-item">
-    <div class="timeline-date">2025</div>
+    <div class="timeline-date">July 2025</div>
     <div class="timeline-content">
       Our work <em>DOOMGAN: High-Fidelity Dynamic Identity Obfuscation Ocular Generative Morphing</em> has been accepted at the <strong>IJCB 2025</strong> (IEEE International Joint Conference on Biometrics) conference.
     </div>
@@ -468,7 +476,7 @@ I am a PhD Student in Computer Science at the University of North Texas, working
         <span>Credential ID: <code class="cert-meta-id">K69SPCM4QXWG</code></span>
       </div>
     </div>
-    <a class="cert-btn" href="https://www.linkedin.com/in/bharath-k33/details/certifications/" target="_blank">Show Credential</a>
+    <a class="cert-btn" href="https://www.coursera.org/account/accomplishments/verify/K69SPCM4QXWG" target="_blank">Show Credential</a>
   </div>
 
   <!-- 2. TensorFlow Developer -->
@@ -481,7 +489,7 @@ I am a PhD Student in Computer Science at the University of North Texas, working
         <span>Issued Nov 2019</span>
       </div>
     </div>
-    <a class="cert-btn" href="https://www.linkedin.com/in/bharath-k33/details/certifications/" target="_blank">Show Credential</a>
+    <a class="cert-btn" href="https://www.coursera.org/account/accomplishments/professional-cert/ML5GYQPHVFJ7?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof" target="_blank">Show Credential</a>
   </div>
 
   <!-- 3. IBM AI Engineering -->
@@ -494,7 +502,7 @@ I am a PhD Student in Computer Science at the University of North Texas, working
         <span>Issued May 2020</span>
       </div>
     </div>
-    <a class="cert-btn" href="https://www.linkedin.com/in/bharath-k33/details/certifications/" target="_blank">Show Credential</a>
+    <a class="cert-btn" href="https://www.coursera.org/account/accomplishments/professional-cert/KTL5F8TV7BAH" target="_blank">Show Credential</a>
   </div>
 
   <!-- 4. Google IT Automation -->
@@ -504,7 +512,7 @@ I am a PhD Student in Computer Science at the University of North Texas, working
       <div class="cert-name">Google IT Automation with Python</div>
       <div class="cert-issuer">Google</div>
     </div>
-    <a class="cert-btn" href="https://www.linkedin.com/in/bharath-k33/details/certifications/" target="_blank">Show Credential</a>
+    <a class="cert-btn" href="https://www.coursera.org/account/accomplishments/professional-cert/FAYHVDCS5EVH" target="_blank">Show Credential</a>
   </div>
 
   <!-- 5. Python For Everybody -->
@@ -514,7 +522,7 @@ I am a PhD Student in Computer Science at the University of North Texas, working
       <div class="cert-name">Python For Everybody</div>
       <div class="cert-issuer">University of Michigan</div>
     </div>
-    <a class="cert-btn" href="https://www.linkedin.com/in/bharath-k33/details/certifications/" target="_blank">Show Credential</a>
+    <a class="cert-btn" href="https://www.coursera.org/account/accomplishments/specialization/RHX9S5493HJ6" target="_blank">Show Credential</a>
   </div>
 
 </div>
@@ -530,7 +538,7 @@ I am a PhD Student in Computer Science at the University of North Texas, working
         <div class="cert-name">Internet of Things (IOT)</div>
         <div class="cert-issuer">University of California, Irvine - The Paul Merage School of Business</div>
       </div>
-      <a class="cert-btn" href="https://www.linkedin.com/in/bharath-k33/details/certifications/" target="_blank">Show Credential</a>
+      <a class="cert-btn" href="https://www.coursera.org/account/accomplishments/specialization/G3PGFKWDDRSH" target="_blank">Show Credential</a>
     </div>
 
     <!-- 7. IBM Python for Data Science -->
@@ -540,7 +548,7 @@ I am a PhD Student in Computer Science at the University of North Texas, working
         <div class="cert-name">Python for Data Science</div>
         <div class="cert-issuer">IBM</div>
       </div>
-      <a class="cert-btn" href="https://www.linkedin.com/in/bharath-k33/details/certifications/" target="_blank">Show Credential</a>
+      <a class="cert-btn" href="https://www.credly.com/badges/17db8d94-a5eb-4560-98f5-c3829290167c/linked_in_profile" target="_blank">Show Credential</a>
     </div>
 
   </div>
