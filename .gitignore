@@ -1,0 +1,26 @@
+# Compiled Jekyll site directory
+_site/
+
+# Jekyll cache directory
+.jekyll-cache/
+.jekyll-metadata
+
+# Sass cache
+.sass-cache/
+
+# Local logs
+jekyll_log.txt
+*.log
+
+# Bundler paths and vendor gems
+.bundle/
+vendor/
+.bundle/config
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Local Resume documents (do not push to repository)
+resume.html
+resume.tex

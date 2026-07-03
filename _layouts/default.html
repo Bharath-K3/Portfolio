@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ site.title }} | {{ site.description }}</title>
+    <meta name="description" content="{{ site.description }}">
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+    {% include head-custom.html %}
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700&display=swap');
+
+      /* Global resets and typography enhancement */
+      body {
+        font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+        color: #334155;
+        line-height: 1.65;
+      }
+      h1, h2, h3, h4 {
+        font-family: 'Outfit', sans-serif;
+        color: #0f172a;
+      }
+
+      /* Sidebar custom items */
+      .sidebar-avatar {
+        display: block;
+        width: 200px !important;
+        height: 200px !important;
+        border-radius: 50% !important;
+        margin-bottom: 20px !important;
+        object-fit: cover !important;
+        border: 3px solid #ffffff;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+      }
+      
+      header h1 {
+        font-size: 26px !important;
+        line-height: 1.2 !important;
+        margin-bottom: 12px !important;
+        font-weight: 700 !important;
+      }
+
+      header p {
+        font-size: 15px;
+        color: #475569;
+        line-height: 1.45;
+        margin-bottom: 20px;
+      }
+
+      .sidebar-meta {
+        margin: 20px 0;
+        font-size: 0.88em;
+        color: #475569;
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+      }
+      .sidebar-meta-item {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+      }
+      .meta-icon {
+        font-size: 1.1em;
+      }
+      .sidebar-section {
+        margin: 24px 0;
+      }
+      .sidebar-section h3 {
+        font-size: 0.85em !important;
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
+        color: #64748b !important;
+        margin-bottom: 12px !important;
+        font-weight: 700 !important;
+      }
+      .sidebar-tags {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 6px;
+      }
+      .sidebar-tag {
+        font-size: 0.76em;
+        background: #f1f5f9;
+        color: #475569;
+        padding: 4px 8px;
+        border-radius: 6px;
+        border: 1px solid #e2e8f0;
+        font-weight: 500;
+      }
+      .sidebar-socials {
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+        margin-top: 24px;
+      }
+      .sidebar-social-link {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        padding: 8px 14px;
+        background: #f8fafc;
+        color: #334155 !important;
+        border: 1px solid #e2e8f0;
+        border-radius: 8px;
+        font-weight: 500;
+        font-size: 0.85em;
+        text-decoration: none !important;
+        transition: all 0.25s ease;
+      }
+      .sidebar-social-link svg {
+        flex-shrink: 0;
+        transition: transform 0.2s ease;
+      }
+      .sidebar-social-link:hover {
+        background: #2563eb;
+        border-color: #2563eb;
+        color: #ffffff !important;
+        transform: translateX(4px);
+        box-shadow: 0 4px 10px rgba(37, 99, 235, 0.2);
+      }
+      .sidebar-social-link:hover svg {
+        transform: scale(1.1);
+      }
+
+      @media screen and (max-width: 640px) {
+        .sidebar-avatar {
+          margin: 0 auto 20px !important;
+          width: 150px !important;
+          height: 150px !important;
+        }
+        header {
+          text-align: center;
+        }
+        .sidebar-meta {
+          align-items: center;
+        }
+        .sidebar-tags {
+          justify-content: center;
+        }
+        .sidebar-socials {
+          flex-direction: row;
+          flex-wrap: wrap;
+          justify-content: center;
+          gap: 10px;
+        }
+        .sidebar-social-link:hover {
+          transform: translateY(-2px);
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        {% if site.logo %}
+          <img src="{{ site.logo | relative_url }}" class="sidebar-avatar" alt="Bharath Krishnamurthy">
+        {% endif %}
+        
+        <h1><a href="{{ "/" | relative_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
+
+        <!-- Sidebar Info -->
+        <div class="sidebar-meta">
+          <div class="sidebar-meta-item">
+            <span class="meta-icon">📍</span>
+            <span>Denton, TX, USA</span>
+          </div>
+          <div class="sidebar-meta-item">
+            <span class="meta-icon">🏛️</span>
+            <span>University of North Texas</span>
+          </div>
+        </div>
+
+        <!-- Research Focus -->
+        <div class="sidebar-section">
+          <h3>Research Focus</h3>
+          <div class="sidebar-tags">
+            <span class="sidebar-tag">Generative AI</span>
+            <span class="sidebar-tag">Biometric Security</span>
+            <span class="sidebar-tag">Computer Vision</span>
+            <span class="sidebar-tag">Adversarial ML</span>
+          </div>
+        </div>
+
+        <!-- Quick Contacts & Socials -->
+        <div class="sidebar-socials">
+          <a class="sidebar-social-link" href="https://scholar.google.com/citations?user=Dufrp4gAAAAJ&hl=en" target="_blank">
+            <svg class="social-icon" viewBox="0 0 24 24" width="16" height="16" fill="currentColor">
+              <path d="M12 2L1 7l11 5 9-4.09V17h2V7L12 2zM4.18 10.18L12 13.73l7.82-3.55L12 6.64 4.18 10.18zM19 14.24V12.1l-7 3.18-7-3.18v2.14l7 3.18 7-3.18z"/>
+            </svg>
+            <span>Google Scholar</span>
+          </a>
+          <a class="sidebar-social-link" href="https://github.com/Bharath-K3" target="_blank">
+            <svg class="social-icon" viewBox="0 0 24 24" width="16" height="16" fill="currentColor">
+              <path d="M12 2C6.477 2 2 6.477 2 12c0 4.42 2.865 8.166 6.839 9.489.5.092.682-.217.682-.482 0-.237-.008-.866-.013-1.7-2.782.603-3.369-1.34-3.369-1.34-.454-1.156-1.11-1.462-1.11-1.462-.908-.62.069-.608.069-.608 1.003.07 1.531 1.03 1.531 1.03.892 1.529 2.341 1.087 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.11-4.555-4.943 0-1.091.39-1.984 1.029-2.683-.103-.253-.446-1.27.098-2.647 0 0 .84-.269 2.75 1.025A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.294 2.747-1.025 2.747-1.025.546 1.377.203 2.394.1 2.647.64.699 1.028 1.592 1.028 2.683 0 3.842-2.339 4.687-4.566 4.935.359.309.678.919.678 1.852 0 1.336-.012 2.415-.012 2.743 0 .267.18.579.688.481C19.137 20.162 22 16.418 22 12c0-5.523-4.477-10-10-10z"/>
+            </svg>
+            <span>GitHub</span>
+          </a>
+          <a class="sidebar-social-link" href="https://www.linkedin.com/in/bharath-k33" target="_blank">
+            <svg class="social-icon" viewBox="0 0 24 24" width="16" height="16" fill="currentColor">
+              <path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.779-1.75-1.75s.784-1.75 1.75-1.75 1.75.779 1.75 1.75-.784 1.75-1.75 1.75zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/>
+            </svg>
+            <span>LinkedIn</span>
+          </a>
+          <a class="sidebar-social-link" href="mailto:BharathKrishnamurthy@my.unt.edu">
+            <svg class="social-icon" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+              <polyline points="22,6 12,13 2,6"/>
+            </svg>
+            <span>Email</span>
+          </a>
+        </div>
+      </header>
+      <section>
+
+      {{ content }}
+
+      </section>
+      <footer>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
+</html>
